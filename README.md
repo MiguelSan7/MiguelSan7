@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Miguel and I'm a Dev, from Mexico 🌮</h2>
+<h2 align="center">Hi! My name is Miguel</h2>
 
 ###
 
